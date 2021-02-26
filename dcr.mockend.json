@@ -1,8 +1,8 @@
 {
-  "dcr": {
-    "dcr": "string",
-    "donationsTestedPercentage": "boolean",
-    "date": "number"
-  }
+  "Post": {
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date"
   }
 }
