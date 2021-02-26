@@ -1,128 +1,243 @@
 {
   "dcrs": [{
-  "dcr": "Qo’ng’irot Shahri",
+  "dcr": "Simao",
   "year": 2021,
   "month": 2,
-  "percentageTested": 0.5
+  "percentageTested": 0.6,
+  "sex": "Agender",
+  "age": 67,
+  "ethnicity": "Taiwanese"
 }, {
-  "dcr": "Brades",
-  "year": 2021,
-  "month": 1,
-  "percentageTested": 0.8
-}, {
-  "dcr": "Delft",
-  "year": 2021,
-  "month": 2,
-  "percentageTested": 0.6
-}, {
-  "dcr": "Sagaing",
-  "year": 2021,
-  "month": 2,
-  "percentageTested": 0.8
-}, {
-  "dcr": "Punta del Este",
-  "year": 2020,
-  "month": 2,
-  "percentageTested": 0.6
-}, {
-  "dcr": "Chengjiang",
+  "dcr": "Tanabe",
   "year": 2021,
   "month": 3,
-  "percentageTested": 0.6
+  "percentageTested": 1.0,
+  "sex": "Bigender",
+  "age": 58,
+  "ethnicity": "Malaysian"
 }, {
-  "dcr": "Maracaibo",
-  "year": 2020,
-  "month": 3,
-  "percentageTested": 0.5
-}, {
-  "dcr": "Bayan Huxu",
-  "year": 2020,
-  "month": 2,
-  "percentageTested": 0.8
-}, {
-  "dcr": "Pordapor Barat",
-  "year": 2020,
-  "month": 2,
-  "percentageTested": 0.6
-}, {
-  "dcr": "Tres Isletas",
-  "year": 2020,
-  "month": 3,
-  "percentageTested": 1.0
-}, {
-  "dcr": "Oekero",
-  "year": 2021,
-  "month": 3,
-  "percentageTested": 0.9
-}, {
-  "dcr": "Bagumbayan",
-  "year": 2021,
-  "month": 3,
-  "percentageTested": 0.6
-}, {
-  "dcr": "Žandov",
-  "year": 2021,
-  "month": 2,
-  "percentageTested": 0.7
-}, {
-  "dcr": "Kiiminki",
-  "year": 2021,
-  "month": 2,
-  "percentageTested": 1.0
-}, {
-  "dcr": "Xinqiaohe",
-  "year": 2021,
-  "month": 2,
-  "percentageTested": 1.0
-}, {
-  "dcr": "Narawayong",
-  "year": 2021,
-  "month": 1,
-  "percentageTested": 0.9
-}, {
-  "dcr": "Palestina",
-  "year": 2021,
-  "month": 2,
-  "percentageTested": 0.8
-}, {
-  "dcr": "Ust’-Ilimsk",
-  "year": 2020,
-  "month": 3,
-  "percentageTested": 0.7
-}, {
-  "dcr": "Begowāla",
-  "year": 2021,
-  "month": 3,
-  "percentageTested": 0.9
-}, {
-  "dcr": "Lanpelan",
-  "year": 2021,
-  "month": 1,
-  "percentageTested": 0.6
-}, {
-  "dcr": "Toulouse",
+  "dcr": "Luau",
   "year": 2020,
   "month": 1,
-  "percentageTested": 0.8
+  "percentageTested": 0.8,
+  "sex": "Genderqueer",
+  "age": 36,
+  "ethnicity": "Chilean"
 }, {
-  "dcr": "Dalar",
+  "dcr": "San Ignacio",
+  "year": 2020,
+  "month": 1,
+  "percentageTested": 0.5,
+  "sex": "Bigender",
+  "age": 73,
+  "ethnicity": "Alaskan Athabascan"
+}, {
+  "dcr": "Loučná nad Desnou",
+  "year": 2020,
+  "month": 3,
+  "percentageTested": 0.9,
+  "sex": "Male",
+  "age": 34,
+  "ethnicity": "Panamanian"
+}, {
+  "dcr": "Shah Alam",
   "year": 2020,
   "month": 2,
-  "percentageTested": 1.0
+  "percentageTested": 0.8,
+  "sex": "Female",
+  "age": 75,
+  "ethnicity": "Chilean"
 }, {
-  "dcr": "Rizal",
+  "dcr": "Wleń",
   "year": 2021,
   "month": 1,
-  "percentageTested": 0.5
+  "percentageTested": 0.8,
+  "sex": "Agender",
+  "age": 50,
+  "ethnicity": "Aleut"
 }, {
-  "dcr": "Wugong",
+  "dcr": "Město Libavá",
+  "year": 2020,
+  "month": 1,
+  "percentageTested": 0.6,
+  "sex": "Male",
+  "age": 62,
+  "ethnicity": "Panamanian"
+}, {
+  "dcr": "Thayetmyo",
+  "year": 2020,
+  "month": 1,
+  "percentageTested": 0.6,
+  "sex": "Genderqueer",
+  "age": 59,
+  "ethnicity": "Uruguayan"
+}, {
+  "dcr": "Sodankylä",
+  "year": 2020,
+  "month": 1,
+  "percentageTested": 0.6,
+  "sex": "Agender",
+  "age": 56,
+  "ethnicity": "Guatemalan"
+}, {
+  "dcr": "Xiaosong",
+  "year": 2020,
+  "month": 2,
+  "percentageTested": 0.7,
+  "sex": "Polygender",
+  "age": 27,
+  "ethnicity": "Tongan"
+}, {
+  "dcr": "Strängnäs",
   "year": 2021,
-  "month": 3,
-  "percentageTested": 0.8
+  "month": 2,
+  "percentageTested": 0.6,
+  "sex": "Agender",
+  "age": 34,
+  "ethnicity": "Iroquois"
 }, {
-  "dcr": "Stęszew",
+  "dcr": "Libertador General San Martín",
   "year": 2020,
   "month": 3,
-  "percentageTested": 0.8
+  "percentageTested": 0.9,
+  "sex": "Agender",
+  "age": 42,
+  "ethnicity": "Ecuadorian"
+}, {
+  "dcr": "Flórina",
+  "year": 2020,
+  "month": 3,
+  "percentageTested": 0.6,
+  "sex": "Polygender",
+  "age": 49,
+  "ethnicity": "Asian Indian"
+}, {
+  "dcr": "Zarasai",
+  "year": 2021,
+  "month": 3,
+  "percentageTested": 0.7,
+  "sex": "Male",
+  "age": 60,
+  "ethnicity": "Black or African American"
+}, {
+  "dcr": "Bieniewice",
+  "year": 2021,
+  "month": 3,
+  "percentageTested": 0.9,
+  "sex": "Male",
+  "age": 54,
+  "ethnicity": "Native Hawaiian and Other Pacific Islander (NHPI)"
+}, {
+  "dcr": "Vicuña Mackenna",
+  "year": 2021,
+  "month": 3,
+  "percentageTested": 0.5,
+  "sex": "Genderqueer",
+  "age": 77,
+  "ethnicity": "Black or African American"
+}, {
+  "dcr": "Pueai Noi",
+  "year": 2021,
+  "month": 3,
+  "percentageTested": 0.8,
+  "sex": "Male",
+  "age": 80,
+  "ethnicity": "Taiwanese"
+}, {
+  "dcr": "Şirrīn ash Shamālīyah",
+  "year": 2021,
+  "month": 2,
+  "percentageTested": 0.8,
+  "sex": "Polygender",
+  "age": 66,
+  "ethnicity": "Chinese"
+}, {
+  "dcr": "Nong Hi",
+  "year": 2021,
+  "month": 3,
+  "percentageTested": 1.0,
+  "sex": "Female",
+  "age": 74,
+  "ethnicity": "Spaniard"
+}, {
+  "dcr": "Longjumeau",
+  "year": 2021,
+  "month": 2,
+  "percentageTested": 0.8,
+  "sex": "Agender",
+  "age": 58,
+  "ethnicity": "Cambodian"
+}, {
+  "dcr": "Chenjiahe",
+  "year": 2020,
+  "month": 2,
+  "percentageTested": 0.6,
+  "sex": "Polygender",
+  "age": 20,
+  "ethnicity": "Asian"
+}, {
+  "dcr": "Ciudad Bolívar",
+  "year": 2021,
+  "month": 2,
+  "percentageTested": 0.6,
+  "sex": "Male",
+  "age": 28,
+  "ethnicity": "Tohono O'Odham"
+}, {
+  "dcr": "Sofo-Birnin-Gwari",
+  "year": 2020,
+  "month": 1,
+  "percentageTested": 1.0,
+  "sex": "Non-binary",
+  "age": 77,
+  "ethnicity": "South American"
+}, {
+  "dcr": "San Luis",
+  "year": 2021,
+  "month": 2,
+  "percentageTested": 0.8,
+  "sex": "Bigender",
+  "age": 47,
+  "ethnicity": "Chamorro"
+}, {
+  "dcr": "Minato",
+  "year": 2021,
+  "month": 3,
+  "percentageTested": 0.7,
+  "sex": "Non-binary",
+  "age": 45,
+  "ethnicity": "Pueblo"
+}, {
+  "dcr": "Paris 14",
+  "year": 2021,
+  "month": 1,
+  "percentageTested": 0.6,
+  "sex": "Genderqueer",
+  "age": 59,
+  "ethnicity": "Cheyenne"
+}, {
+  "dcr": "Digah",
+  "year": 2021,
+  "month": 3,
+  "percentageTested": 0.5,
+  "sex": "Polygender",
+  "age": 36,
+  "ethnicity": "Peruvian"
+}, {
+  "dcr": "Žiželice",
+  "year": 2021,
+  "month": 3,
+  "percentageTested": 0.7,
+  "sex": "Genderfluid",
+  "age": 66,
+  "ethnicity": "Seminole"
+}, {
+  "dcr": "Huangzhuang",
+  "year": 2021,
+  "month": 1,
+  "percentageTested": 0.9,
+  "sex": "Female",
+  "age": 65,
+  "ethnicity": "Thai"
 }]
 }
