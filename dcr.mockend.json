@@ -1,0 +1,8 @@
+{
+  "dcr": {
+    "dcr": "string",
+    "donationsTestedPercentage": "boolean",
+    "date": "number"
+  }
+  }
+}
