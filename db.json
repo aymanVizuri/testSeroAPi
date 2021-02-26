@@ -1,8 +1,313 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date"
-  }
+  "dcrs": [{
+  "dcr": "Wanrongjiang",
+  "year": 2021,
+  "month": 1,
+  "percentageTested": 0.6
+}, {
+  "dcr": "Krajan Pocangan",
+  "year": 2021,
+  "month": 2,
+  "percentageTested": 0.7
+}, {
+  "dcr": "Zhouwang",
+  "year": 2020,
+  "month": 3,
+  "percentageTested": 1.0
+}, {
+  "dcr": "Doumé",
+  "year": 2021,
+  "month": 2,
+  "percentageTested": 1.0
+}, {
+  "dcr": "Cachimayo",
+  "year": 2021,
+  "month": 2,
+  "percentageTested": 0.8
+}, {
+  "dcr": "Paris 18",
+  "year": 2021,
+  "month": 1,
+  "percentageTested": 0.9
+}, {
+  "dcr": "Milot",
+  "year": 2021,
+  "month": 3,
+  "percentageTested": 0.7
+}, {
+  "dcr": "Samadua",
+  "year": 2020,
+  "month": 3,
+  "percentageTested": 1.0
+}, {
+  "dcr": "Shidu",
+  "year": 2020,
+  "month": 1,
+  "percentageTested": 0.7
+}, {
+  "dcr": "Jõgeva",
+  "year": 2021,
+  "month": 3,
+  "percentageTested": 0.5
+}, {
+  "dcr": "Longwood",
+  "year": 2021,
+  "month": 3,
+  "percentageTested": 0.8
+}, {
+  "dcr": "Nikolayevsk",
+  "year": 2020,
+  "month": 2,
+  "percentageTested": 0.9
+}, {
+  "dcr": "Runaway Bay",
+  "year": 2021,
+  "month": 1,
+  "percentageTested": 1.0
+}, {
+  "dcr": "Pangushan",
+  "year": 2021,
+  "month": 1,
+  "percentageTested": 0.9
+}, {
+  "dcr": "Jiquilillo",
+  "year": 2021,
+  "month": 1,
+  "percentageTested": 0.8
+}, {
+  "dcr": "Oji River",
+  "year": 2020,
+  "month": 2,
+  "percentageTested": 0.8
+}, {
+  "dcr": "Eslöv",
+  "year": 2020,
+  "month": 2,
+  "percentageTested": 0.6
+}, {
+  "dcr": "São Julião do Tojal",
+  "year": 2020,
+  "month": 1,
+  "percentageTested": 1.0
+}, {
+  "dcr": "Mayuan",
+  "year": 2021,
+  "month": 1,
+  "percentageTested": 0.7
+}, {
+  "dcr": "São Miguel do Guamá",
+  "year": 2020,
+  "month": 2,
+  "percentageTested": 1.0
+}, {
+  "dcr": "San Miguel",
+  "year": 2021,
+  "month": 2,
+  "percentageTested": 0.8
+}, {
+  "dcr": "Bërxull",
+  "year": 2020,
+  "month": 3,
+  "percentageTested": 0.7
+}, {
+  "dcr": "Cifuentes",
+  "year": 2020,
+  "month": 3,
+  "percentageTested": 0.8
+}, {
+  "dcr": "Itapissuma",
+  "year": 2021,
+  "month": 2,
+  "percentageTested": 0.7
+}, {
+  "dcr": "Kėdainiai",
+  "year": 2020,
+  "month": 3,
+  "percentageTested": 1.0
+}, {
+  "dcr": "Lagoa Santa",
+  "year": 2021,
+  "month": 1,
+  "percentageTested": 0.5
+}, {
+  "dcr": "Kuštilj",
+  "year": 2021,
+  "month": 3,
+  "percentageTested": 0.7
+}, {
+  "dcr": "Köneürgench",
+  "year": 2021,
+  "month": 3,
+  "percentageTested": 0.6
+}, {
+  "dcr": "Krzyżanów",
+  "year": 2021,
+  "month": 2,
+  "percentageTested": 0.5
+}, {
+  "dcr": "Magangué",
+  "year": 2020,
+  "month": 1,
+  "percentageTested": 0.7
+}, {
+  "dcr": "Sanyang",
+  "year": 2021,
+  "month": 3,
+  "percentageTested": 0.9
+}, {
+  "dcr": "Pasanggrahan",
+  "year": 2020,
+  "month": 1,
+  "percentageTested": 1.0
+}, {
+  "dcr": "Nanxindian",
+  "year": 2021,
+  "month": 1,
+  "percentageTested": 0.8
+}, {
+  "dcr": "Arazane",
+  "year": 2021,
+  "month": 2,
+  "percentageTested": 0.9
+}, {
+  "dcr": "Galutu",
+  "year": 2021,
+  "month": 1,
+  "percentageTested": 0.7
+}, {
+  "dcr": "Shakhtars’k",
+  "year": 2021,
+  "month": 1,
+  "percentageTested": 0.7
+}, {
+  "dcr": "Zabrušany",
+  "year": 2021,
+  "month": 3,
+  "percentageTested": 0.5
+}, {
+  "dcr": "Redcliff",
+  "year": 2021,
+  "month": 2,
+  "percentageTested": 0.6
+}, {
+  "dcr": "Nelson",
+  "year": 2020,
+  "month": 3,
+  "percentageTested": 0.5
+}, {
+  "dcr": "Lixiqiao",
+  "year": 2021,
+  "month": 1,
+  "percentageTested": 0.5
+}, {
+  "dcr": "Pasłęk",
+  "year": 2021,
+  "month": 1,
+  "percentageTested": 1.0
+}, {
+  "dcr": "Mujães",
+  "year": 2020,
+  "month": 2,
+  "percentageTested": 1.0
+}, {
+  "dcr": "Atlanta",
+  "year": 2021,
+  "month": 2,
+  "percentageTested": 0.7
+}, {
+  "dcr": "Xinghua",
+  "year": 2021,
+  "month": 3,
+  "percentageTested": 0.8
+}, {
+  "dcr": "Viraco",
+  "year": 2020,
+  "month": 3,
+  "percentageTested": 0.7
+}, {
+  "dcr": "Asímion",
+  "year": 2020,
+  "month": 3,
+  "percentageTested": 0.6
+}, {
+  "dcr": "Lyubar",
+  "year": 2021,
+  "month": 2,
+  "percentageTested": 0.6
+}, {
+  "dcr": "Calomboyan",
+  "year": 2021,
+  "month": 1,
+  "percentageTested": 0.6
+}, {
+  "dcr": "Beihuaidian",
+  "year": 2021,
+  "month": 2,
+  "percentageTested": 0.6
+}, {
+  "dcr": "Komi",
+  "year": 2021,
+  "month": 3,
+  "percentageTested": 0.8
+}, {
+  "dcr": "Wudangshan",
+  "year": 2021,
+  "month": 1,
+  "percentageTested": 0.7
+}, {
+  "dcr": "Taihe Chengguanzhen",
+  "year": 2020,
+  "month": 3,
+  "percentageTested": 0.6
+}, {
+  "dcr": "Bentar",
+  "year": 2020,
+  "month": 2,
+  "percentageTested": 0.9
+}, {
+  "dcr": "Fedorovka",
+  "year": 2020,
+  "month": 2,
+  "percentageTested": 0.6
+}, {
+  "dcr": "Radvanice",
+  "year": 2020,
+  "month": 2,
+  "percentageTested": 0.9
+}, {
+  "dcr": "Đắk Mil",
+  "year": 2020,
+  "month": 2,
+  "percentageTested": 0.9
+}, {
+  "dcr": "Iwatsuki",
+  "year": 2020,
+  "month": 1,
+  "percentageTested": 0.7
+}, {
+  "dcr": "Milówka",
+  "year": 2020,
+  "month": 1,
+  "percentageTested": 0.9
+}, {
+  "dcr": "Balabac",
+  "year": 2021,
+  "month": 2,
+  "percentageTested": 0.9
+}, {
+  "dcr": "Kedungharjo",
+  "year": 2021,
+  "month": 2,
+  "percentageTested": 0.6
+}, {
+  "dcr": "Lingcheng",
+  "year": 2020,
+  "month": 3,
+  "percentageTested": 0.8
+}, {
+  "dcr": "Hyrynsalmi",
+  "year": 2020,
+  "month": 1,
+  "percentageTested": 0.5
+}]
 }
