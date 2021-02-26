@@ -4,5 +4,4 @@
     "donationsTestedPercentage": "boolean",
     "date": "number"
   }
-  }
 }
